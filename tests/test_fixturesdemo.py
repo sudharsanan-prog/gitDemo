@@ -9,6 +9,7 @@ class TestExample:
 
     def test_demo1(self):
         print("I'll execute now...")
+        print("say kudos")
 
     def test_demo2(self):
         print("I'll execute now...")
