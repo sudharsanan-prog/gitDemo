@@ -13,6 +13,7 @@ def test_secondGreekCreditCard():
     print("good Afternoon")
     print("good night")
     print("Altered the code")
+    print("done by another developer")
 
 
 def test_secondFix(setup):
@@ -20,3 +21,4 @@ def test_secondFix(setup):
     print("Because I am lazy")
     print("night")
     print("day")
+    print("developed by another browser")
